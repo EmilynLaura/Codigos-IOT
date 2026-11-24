@@ -1,0 +1,22 @@
+[
+  {
+    "origem": "Foz do Iguaçu - PR",
+    "destino": "Itajaí - SC",
+    "peso": "19.500 kg",
+    "valor_frete": "R$ 5.800,00",
+    "data": "2026-10-12",
+    "cliente": "AgroSul Logística S/A"
+  },
+  {
+    "rota": {
+      "origem": "Ponta Grossa / PR",
+      "destino": "Campinas / SP"
+    },
+    "carga": {
+      "peso": "22 ton"
+    },
+    "frete": "R$ 6.950,00",
+    "data_solicitacao": "11/10/2026",
+    "tipo_veiculo": "Carreta LS"
+  }
+]

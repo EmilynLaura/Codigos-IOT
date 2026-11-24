@@ -1,0 +1,6 @@
+﻿Origem;Destino;Peso_Carga;Valor_Frete;Data_Pedido;Observacoes
+Cascavel / PR;Curitiba / PR;16.500 kg;R$ 4.200,00;12/10/2026;Carga seca paletizada
+Maringá / PR;Santos / SP;27 t;R$ 7.100,00;11/10/2026;Granel agrícola
+Toledo / PR;Paranaguá / PR;32.000,00 kg;R$ 8.400,00;10/10/2026;Exportação soja
+Cascavel / PR;Curitiba / PR;16.500 kg;R$ 4.200,00;12/10/2026;Carga seca paletizada
+;Porto Alegre / RS;12 t;R$ 3.800,00;12/10/2026;Incompleto sem origem
